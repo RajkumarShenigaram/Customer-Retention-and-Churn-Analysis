@@ -45,8 +45,4 @@ These visualizations help in understanding **customer stickiness, churn patterns
 ## **Let’s Connect!**  
 Interested in more insights on **customer retention, SQL analytics, and Power BI visualizations**? Feel free to **⭐ Star** this repository or connect with me on **LinkedIn**!  
 
-🔗 _[Insert your LinkedIn or GitHub Profile Link]_  
-
-### **"To drive lasting growth, organizations must continually innovate, thoughtfully build, and relentlessly optimize."**  
-
-**✅ Innovate. Build. Optimize.**
+🔗 https://www.linkedin.com/in/rajkumarshenigaram/
