@@ -1,4 +1,4 @@
-# **Customer Retention & Churn Analysis Using SQL & Power BI**  
+# **Customer Retention & Churn Analysis Using SQL & Power BI **  
 
 ## **Overview**  
 This project focuses on **customer retention and churn analysis**, leveraging **SQL & Power BI** to model data, optimize **Lifetime Value (LTV), Customer Acquisition Cost (CAC), and maximize Marketing ROI**.  
